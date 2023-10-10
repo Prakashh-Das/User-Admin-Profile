@@ -1,33 +1,5 @@
-# Starter Mern Antd Admin App , MERN Admin dashboard ,Antd Admin Template free
+# User-Admin-Profile
 
-```
-Don't forget please to ⭐ this repo if you like this Starter Antd Admin!
-```
-
-<div align="center">
-    <a href="https://www.upwork.com/workwith/lalamisdn">
-  <img src="https://idurarapp.com/freelace-full-stack-nodejs-react-ux-designer.jpg" width="100%" />
-    </a>
-</div>
-
-## Our Sponsors
-
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=4ead8370b905&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
-
-![starter-antd-admin-crud-auth-mern-crud-auth](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opp4yj177dizyaosah0o.png)
-
-
-## Starter Antd Admin (Crud & auth) Mern App (Express.js / React / Redux / MongoDB)
-
-Starter Crm App based on mern stack (Express.js / MongoDb / React / Redux / AntD) with generic crud and auth , admin management .
-
-**Live App Demo** : [https://www.idurarapp.com/demo-mern-admin/](https://www.idurarapp.com/demo-mern-admin/)
-
-`username : admin@demon.com
-password : admin123`
-
-```
 ## Setup backend
 
 1) just create MongoDB Atlas accout database url 
@@ -69,15 +41,5 @@ password : admin123`
 * Private Route and Public Route
 * Not Found Page
 * Beautiful UI Dashboard
-
-#
-## App Built on top of this Starter project [IDURAR ERP/CRM](https://github.com/idurar/erp-crm)
-IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
-GitHub Repository : [https://github.com/idurar/erp-crm](https://github.com/idurar/erp-crm)
-
-
-[![
-IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js )](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ja242ld9m9z1c6ia7lu5.png)](https://github.com/idurar/erp-crm)
-
 
 
